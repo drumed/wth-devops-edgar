@@ -31,5 +31,3 @@ import React from "react";
     }
 
 export default Hours;
-@drumed
-Comment
